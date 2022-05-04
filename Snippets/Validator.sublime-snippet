@@ -1,0 +1,40 @@
+<snippet>
+<content><![CDATA[
+/**
+ * Validator for validate data in the request.
+ *
+ * @param array \$data The data
+ * @param int   \$id   The identifier for update validation
+ *
+ * @return \Illuminate\Http\Response
+ */
+    protected function validator(array \$data, \$id=null)
+    {
+        \Validator::extend(
+            'without_spaces',
+            function (\$attr, \$value) {
+                return preg_match('/^\S*\$/u', \$value);
+            }
+        );
+
+        return \Validator::make(
+            \$data,
+            [
+                '' => ['required', 'string', 'max:255'],
+                '' => ['required'],
+                '' => ['required', 'string','min:30'],
+                '' => ['required'],
+                'files.*' => ['image','mimes:jpeg,png,jpg','max:5000','dimensions:ratio=16/9'],
+                ],
+            [
+                '.min'=> 'The must be at least 30 characters',
+                'files.mimes' => 'The image type must be jpeg,jpg or png',
+                'files.*.dimensions' => 'The image dimensions must be 16:9 ratio',
+                ]
+        );
+    }
+]]></content>
+<tabTrigger>Validator</tabTrigger>
+<description>Laravel Input Validator Function</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, comment.block.documentation.phpdoc.php, punctuation.definition.comment.begin.php</scope>
+</snippet>

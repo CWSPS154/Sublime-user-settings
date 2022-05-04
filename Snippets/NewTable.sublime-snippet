@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+        Schema::create('${1}', function (Blueprint \$table) {
+            \$table->id();
+            \$table->string('${0}')->unique();
+            \$table->timestamps();
+        });
+]]></content>
+<tabTrigger>NewTable</tabTrigger>
+<description>Crate Schema</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php, meta.path.php, support.class.php</scope>
+</snippet>

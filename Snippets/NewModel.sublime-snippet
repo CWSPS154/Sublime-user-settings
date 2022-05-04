@@ -1,0 +1,12 @@
+<snippet>
+<content><![CDATA[
+     protected \$table = '${1}';
+     protected \$fillable = [
+        '${2}',
+        '${0}',
+    ];
+]]></content>
+<tabTrigger>NewModel</tabTrigger>
+<description>Table Descriptions</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, storage.modifier.php</scope>
+</snippet>

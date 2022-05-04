@@ -1,0 +1,1585 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"s",
+				"status"
+			],
+			[
+				"d",
+				"d-flex"
+			],
+			[
+				"car",
+				"card-body"
+			],
+			[
+				"pay",
+				"payment_due"
+			],
+			[
+				"gr",
+				"group_id"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"product",
+				"product_id"
+			],
+			[
+				"q",
+				"quantity_type"
+			],
+			[
+				"els",
+				"elseif〔keyword〕"
+			],
+			[
+				"cart",
+				"cart_id"
+			],
+			[
+				"j",
+				"justify-content-between"
+			],
+			[
+				"text-sm",
+				"text-monospace"
+			],
+			[
+				"ju",
+				"justify-content-between"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"text",
+				"text-danger"
+			],
+			[
+				"mr",
+				"mr-2"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"justify-content-x",
+				"justify-content-xl-between"
+			],
+			[
+				"produc",
+				"product_code"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"col",
+				"col-lg-6"
+			],
+			[
+				"pu",
+				"purchase"
+			],
+			[
+				"c_",
+				"c_gst"
+			],
+			[
+				"purcha",
+				"purchase_from"
+			],
+			[
+				"purc",
+				"purchase_items"
+			],
+			[
+				"purchase",
+				"purchase_details"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"product-",
+				"product-name"
+			],
+			[
+				"pr",
+				"product"
+			],
+			[
+				"c",
+				"click"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"cus",
+				"custom-control"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"p",
+				"$product_id〔variable〕"
+			],
+			[
+				"pod",
+				"product_id"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"product_",
+				"product_id"
+			],
+			[
+				"add",
+				"addTocart"
+			],
+			[
+				"w-",
+				"w-25"
+			],
+			[
+				"w",
+				"w-25"
+			],
+			[
+				"form-control",
+				"form-control-range"
+			],
+			[
+				"te",
+				"text-center"
+			],
+			[
+				"prod",
+				"product_name"
+			],
+			[
+				"sel",
+				"selected"
+			],
+			[
+				"al",
+				"align-items-center"
+			],
+			[
+				"role",
+				"role_id"
+			],
+			[
+				"pre",
+				"pre_orders"
+			],
+			[
+				"r",
+				"$request〔variable〕"
+			],
+			[
+				"sta",
+				"status"
+			],
+			[
+				"su",
+				"submit"
+			],
+			[
+				"pro",
+				"product"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"va",
+				"values"
+			],
+			[
+				"he",
+				"href"
+			],
+			[
+				"st",
+				"status_id"
+			],
+			[
+				"mb-l",
+				"mb-lg-2"
+			],
+			[
+				"nc-",
+				"nc-alert-circle-i"
+			],
+			[
+				"n",
+				"nc-icon"
+			],
+			[
+				"ch",
+				"checkQuantity"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"cu",
+				"customers"
+			],
+			[
+				"mt-md",
+				"mt-md-2"
+			],
+			[
+				"create",
+				"created"
+			],
+			[
+				"crea",
+				"create"
+			],
+			[
+				"belog",
+				"Relation::belongsTo"
+			],
+			[
+				"has",
+				"hasOne"
+			],
+			[
+				"status",
+				"statusable_id"
+			],
+			[
+				"to",
+				"total_quantity"
+			],
+			[
+				"belongs",
+				"Relation::belongsToMany"
+			],
+			[
+				"customer_",
+				"customer_details"
+			],
+			[
+				"f",
+				"form-control"
+			],
+			[
+				"ml",
+				"ml-2"
+			],
+			[
+				"discount_",
+				"discount_amount"
+			],
+			[
+				"or",
+				"orderitem"
+			],
+			[
+				"tab",
+				"table-responsive"
+			],
+			[
+				"bg-w",
+				"bg-white"
+			],
+			[
+				"o",
+				"$order_id〔variable〕"
+			],
+			[
+				"Sa",
+				"SalesCart"
+			],
+			[
+				"for",
+				"foreach〔keyword〕"
+			],
+			[
+				"Ne",
+				"NewModel"
+			],
+			[
+				"mb",
+				"mb-3"
+			],
+			[
+				"fo",
+				"for"
+			],
+			[
+				"custom-r",
+				"custom-control-input"
+			],
+			[
+				"justify-content-md",
+				"justify-content-md-center"
+			],
+			[
+				"sub",
+				"subtotal"
+			],
+			[
+				"t",
+				"total_amount"
+			],
+			[
+				"tota",
+				"total_price"
+			],
+			[
+				"text-r",
+				"text-right"
+			],
+			[
+				"tot",
+				"total_discount"
+			],
+			[
+				"total_",
+				"total_quantity"
+			],
+			[
+				"text-c",
+				"text-center"
+			],
+			[
+				"mb-m",
+				"mb-md-5"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"dis",
+				"discount_amount"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"align-i",
+				"align-items-center"
+			],
+			[
+				"a",
+				"a"
+			],
+			[
+				"v",
+				"vh-100"
+			],
+			[
+				"min-v",
+				"min-vh-100"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"hyza-",
+				"hyza-blog"
+			],
+			[
+				"us",
+				"user_id"
+			],
+			[
+				"news",
+				"news_letters"
+			],
+			[
+				"Ol",
+				"olderBlogs"
+			],
+			[
+				"ac",
+				"action"
+			],
+			[
+				"ca",
+				"category_identifier"
+			],
+			[
+				"Cate",
+				"Category"
+			],
+			[
+				"ti",
+				"title"
+			],
+			[
+				"ta",
+				"target"
+			],
+			[
+				"tra",
+				"target"
+			],
+			[
+				"mt",
+				"mt-namespace"
+			],
+			[
+				"dele",
+				"delete"
+			],
+			[
+				"Bl",
+				"BlogCategory"
+			],
+			[
+				"blog",
+				"blog_id"
+			],
+			[
+				"category_",
+				"category_id"
+			],
+			[
+				"co",
+				"cover_image"
+			],
+			[
+				"bl",
+				"blog_url"
+			],
+			[
+				"d-",
+				"d-none"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"met",
+				"meta_description"
+			],
+			[
+				"meta",
+				"meta_tags"
+			],
+			[
+				"blog_",
+				"blog_url"
+			],
+			[
+				"blo",
+				"blog"
+			],
+			[
+				"Blo",
+				"BlogCategory〔class〕"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/posApp/resources/views/user/summary/index_summary.blade.php",
+			"settings":
+			{
+				"buffer_size": 1475,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"serve",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"serv",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"db",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"fres",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"make:",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"fre",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"seed",
+				"Laravel Artisan 5: Make:Seeder"
+			],
+			[
+				"model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"migra",
+				"Laravel Artisan: Migrate: Make"
+			],
+			[
+				"fresh",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"clea",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"cache",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"db:s",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"fr",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"ser",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"controll",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"claer",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"up",
+				"Laravel Artisan: Up"
+			],
+			[
+				"dow",
+				"Laravel Artisan: Down"
+			],
+			[
+				"con",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"clear",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"m",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"clae",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"view",
+				"Laravel Artisan 5: View:Clear"
+			],
+			[
+				"mi",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"mig",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"make:m",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"migr",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"ro",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"contr",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"vie",
+				"Laravel Artisan 5: View:Clear"
+			],
+			[
+				"lis",
+				"Laravel Artisan 5: Make:Listener"
+			],
+			[
+				"frd",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"compo",
+				"Snippet: Blade @component"
+			],
+			[
+				"eve",
+				"Laravel Artisan 5: Make:Event"
+			],
+			[
+				"d",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"cle",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"phpco",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"control",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"roc",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"make:ev",
+				"Laravel Artisan 5: Make:Event"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Seeder"
+			],
+			[
+				"see",
+				"Laravel Generate: Seed"
+			],
+			[
+				"cont",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:mode",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"mod",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"facto",
+				"Laravel Artisan 5: Make:Factory"
+			],
+			[
+				"mode",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"cach",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"make:c",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:mi",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"make:mai",
+				"Laravel Artisan 5: Make:Mail"
+			],
+			[
+				"liste",
+				"Laravel Artisan 5: Make:Listener"
+			],
+			[
+				"event",
+				"Laravel Artisan 5: Make:Event"
+			],
+			[
+				"make:eve",
+				"Laravel Artisan 5: Make:Event"
+			],
+			[
+				"snipe",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"cl",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"make:co",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"SnipetMa",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"snipet",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"seede",
+				"Laravel Artisan 5: Make:Seeder"
+			],
+			[
+				"rou",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"midd",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"view:cle",
+				"Laravel Artisan 5: View:Clear"
+			],
+			[
+				"route",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"migrat",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"cache:",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"confi",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"cacch",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"blade",
+				"Snippet: Blade {{ echo escaped data }}"
+			],
+			[
+				"blade va",
+				"Snippet: Blade @verbatim"
+			],
+			[
+				"snipetMa",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"makeer",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"make:cont",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				":cache",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"cac",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"sinp",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snipen",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snipetma",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"compa",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"php cs",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"Php",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/posApp",
+		"/var/www/html/posApp/app",
+		"/var/www/html/posApp/app/Http",
+		"/var/www/html/posApp/app/Http/Controllers",
+		"/var/www/html/posApp/app/Http/Controllers/User",
+		"/var/www/html/posApp/resources",
+		"/var/www/html/posApp/resources/views",
+		"/var/www/html/posApp/resources/views/components",
+		"/var/www/html/posApp/resources/views/components/admin",
+		"/var/www/html/posApp/resources/views/user",
+		"/var/www/html/posApp/resources/views/user/summary"
+	],
+	"file_history":
+	[
+		"/var/www/html/posApp/.env",
+		"/var/www/html/posApp/routes/web.php",
+		"/var/www/html/posApp/app/Http/Controllers/TestController.php",
+		"/var/www/html/posApp/resources/views/user/test.blade.php",
+		"/var/www/html/posApp/resources/views/user/edit.blade.php",
+		"/var/www/html/posApp/app/Models/CustomerDetails.php",
+		"/var/www/html/posApp/database/migrations/2022_03_23_100852_create_tests_table.php",
+		"/var/www/html/posApp/app/Models/Test.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/CustomerController.php",
+		"/var/www/html/posApp/app/Models/Role.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/InventoryController.php",
+		"/var/www/html/posApp/app/Http/Controllers/Controller.php",
+		"/var/www/html/posApp/resources/views/user/customers/index_customers.blade.php",
+		"/var/www/html/posApp/resources/views/user/sales/sales_order.blade.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/SalesController.php",
+		"/var/www/html/posApp/resources/views/errors/503.blade.php",
+		"/var/www/html/posApp/database/seeders/OrderStatusSeeder.php",
+		"/var/www/html/posApp/resources/views/user/orders/index_orders.blade.php",
+		"/var/www/html/posApp/database/migrations/2022_02_16_092200_create_payments_table.php",
+		"/var/www/html/posApp/app/Models/Payment.php",
+		"/var/www/html/posApp/app/Models/PreOrder.php",
+		"/var/www/html/posApp/app/Models/SalesOrder.php",
+		"/var/www/html/posApp/app/Listeners/AlertStockListenerToSendFlashMsg.php",
+		"/var/www/html/posApp/resources/views/user/orders/order_details.blade.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/OrderController.php",
+		"/var/www/html/posApp/app/Models/User.php",
+		"/var/www/html/posApp/database/migrations/2022_02_16_073040_create_customer_groups_table.php",
+		"/var/www/html/posApp/database/migrations/2014_10_12_000000_create_users_table.php",
+		"/var/www/html/posApp/database/migrations/2022_01_14_045612_create_customer_details_table.php",
+		"/var/www/html/posApp/app/Models/CustomerGroup.php",
+		"/var/www/html/posApp/database/seeders/CustomerGroupSeeder.php",
+		"/var/www/html/posApp/database/factories/ProductFactory.php",
+		"/var/www/html/posApp/database/seeders/DatabaseSeeder.php",
+		"/var/www/html/posApp/database/migrations/2022_01_12_093228_create_order_items_table.php",
+		"/var/www/html/posApp/resources/views/errors/401.blade.php",
+		"/var/www/html/posApp/resources/views/errors/403.blade.php",
+		"/var/www/html/posApp/resources/views/errors/404.blade.php",
+		"/var/www/html/posApp/resources/views/errors/419.blade.php",
+		"/var/www/html/posApp/resources/views/errors/429.blade.php",
+		"/var/www/html/posApp/resources/views/errors/500.blade.php",
+		"/var/www/html/posApp/resources/views/user/customers/create_customer.blade.php",
+		"/var/www/html/posApp/app/Helpers/Helper.php",
+		"/var/www/html/posApp/app/Models/OrderItem.php",
+		"/var/www/html/posApp/database/migrations/2022_01_11_131110_create_sales_carts_table.php",
+		"/var/www/html/posApp/app/Models/SalesCart.php",
+		"/var/www/html/posApp/resources/views/user/inventory/index_inventory.blade.php",
+		"/var/www/html/posApp/resources/views/user/sales/index_sales.blade.php",
+		"/var/www/html/posApp/app/Models/Product.php",
+		"/var/www/html/posApp/database/migrations/2022_01_11_100017_create_products_table.php",
+		"/var/www/html/posApp/resources/views/user/inventory/create_product.blade.php",
+		"/var/www/html/posApp/resources/views/user/inventory/edit_product.blade.php",
+		"/var/www/html/posApp/resources/views/user/purchase/create_purchase.blade.php",
+		"/var/www/html/posApp/resources/views/components/admin/head.blade.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/PurchaseController.php",
+		"/var/www/html/posApp/resources/views/user/preOrder/order_details.blade.php",
+		"/var/www/html/posApp/resources/views/user/summary/index_summary.blade.php",
+		"/var/www/html/posApp/resources/views/user/preOrder/index_pre_order.blade.php",
+		"/var/www/html/posApp/resources/views/user/purchase/index_purchase.blade.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/SummaryController.php",
+		"/var/www/html/posApp/webpack.mix.js",
+		"/var/www/html/posApp/resources/views/user/preOrder/edit_pre_order.blade.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/PreOrderController.php",
+		"/var/www/html/posApp/app/Http/Requests/CustomersRequest.php",
+		"/var/www/html/posApp/app/Http/Controllers/TeacherController.php",
+		"/var/www/html/posApp/database/migrations/2022_02_10_051224_create_teachers_table.php",
+		"/var/www/html/posApp/resources/views/components/admin/action-dropdown.blade.php",
+		"/var/www/html/posApp/app/Providers/AppServiceProvider.php",
+		"/var/www/html/posApp/public/adminTemplate/assets/demo/demo.js",
+		"/var/www/html/posApp/resources/views/components/admin/foot.blade.php",
+		"/var/www/html/posApp/resources/views/components/admin/footer.blade.php",
+		"/var/www/html/posApp/resources/views/home.blade.php",
+		"/var/www/html/posApp/resources/views/components/admin/header.blade.php",
+		"/var/www/html/posApp/resources/views/components/admin/account.blade.php",
+		"/var/www/html/posApp/database/migrations/2022_01_14_044312_create_roles_table.php",
+		"/var/www/html/posApp/app/Models/OrderStatus.php",
+		"/var/www/html/posApp/app/Models/PurchaseDetails.php",
+		"/var/www/html/posApp/resources/views/user/purchase/purchase_details.blade.php",
+		"/var/www/html/posApp/database/migrations/2022_01_24_112046_create_purchase_details_table.php",
+		"/var/www/html/posApp/database/migrations/2022_01_24_113557_create_purchase_items_table.php",
+		"/var/www/html/posApp/app/Models/PurchaseItems.php",
+		"/var/www/html/posApp/app/View/Components/Admin/DeleteModal.php",
+		"/var/www/html/posApp/resources/views/components/admin/delete-modal.blade.php",
+		"/var/www/html/posApp/app/Events/OrderStatusChangeEvent.php",
+		"/var/www/html/posApp/app/Events/PreOrderDeliveryStatusChangeEvent.php",
+		"/var/www/html/posApp/app/Events/AlertStockEvent.php",
+		"/var/www/html/posApp/app/Events/NewOrderPlacedEvent.php",
+		"/var/www/html/posApp/app/Providers/EventServiceProvider.php",
+		"/var/www/html/posApp/app/Events/NewCostomerRegistrationEvent.php",
+		"/var/www/html/posApp/config/app.php",
+		"/home/sanoop/Downloads/invoice.html",
+		"/var/www/html/posApp/resources/views/user/sales/sales_invoice.blade.php",
+		"/var/www/html/posApp/database/migrations/2022_01_12_093213_create_sales_orders_table.php",
+		"/var/www/html/posApp/database/migrations/2022_01_14_051315_create_order_status_table.php",
+		"/var/www/html/posApp/database/seeders/RoleSeeder.php",
+		"/var/www/html/posApp/database/migrations/2022_01_14_050853_create_pre_orders_table.php",
+		"/var/www/html/posApp/database/seeders/UserSeeder.php",
+		"/var/www/html/posApp/app/Http/Controllers/HomeController.php",
+		"/var/www/html/posApp/vendor/vlucas/phpdotenv/src/Validator.php",
+		"/var/www/html/posApp/app/Http/Controllers/User/hi.php",
+		"/home/sanoop/.config/sublime-text-3/Packages/PHP Companion/PHP Companion.sublime-settings",
+		"/home/sanoop/.config/sublime-text-3/Packages/User/PHP Companion.sublime-settings",
+		"/var/www/html/posApp/public/index.php",
+		"/media/sanoop/SPS154/Templates/Admin/BUBBLY DASHBOARD/forms.html",
+		"/var/www/html/posApp/app/Http/Controllers/User/SalesOrderController.php",
+		"/var/www/html/posApp/app/Http/Controllers/Admin/ProductController.php",
+		"/var/www/html/posApp/config/currency.php",
+		"/media/sanoop/SPS154/Templates/Admin/BUBBLY DASHBOARD/tables.html",
+		"/var/www/html/posApp/vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php",
+		"/media/sanoop/SPS154/Templates/Admin/BUBBLY DASHBOARD/index.html",
+		"/var/www/html/posApp/resources/views/layouts/admin/admin_layout.blade.php",
+		"/var/www/html/posApp/resources/views/layouts/user/app_layout.blade.php",
+		"/var/www/html/posApp/resources/views/layouts/user/user_layout.blade.php",
+		"/var/www/html/posApp/resources/views/auth/login.blade.php",
+		"/var/www/html/posApp/public/adminTemplate/assets/css/custom.css",
+		"/var/www/html/posApp/app/Http/Middleware/AdminAuthentication.php",
+		"/var/www/html/posApp/app/Http/Kernel.php",
+		"/var/www/html/posApp/app/View/Components/Admin/Head.php",
+		"/media/sanoop/SPS154/Templates/Admin/BUBBLY DASHBOARD/login.html",
+		"/var/www/html/posApp/resources/views/components/admin/notification.blade.php",
+		"/var/www/html/posApp/resources/views/components/admin/search.blade.php",
+		"/var/www/html/posApp/resources/views/admin/dashboard.blade.php",
+		"/var/www/html/posApp/resources/views/components/admin/sidebar.blade.php",
+		"/var/www/html/posApp/resources/views/user/login.blade.php",
+		"/media/sanoop/SPS154/Templates/Admin/concept-master/index.html",
+		"/home/sanoop/.config/sublime-text-3/Packages/Laravel 5 Artisan/Laravel 5 Artisan.sublime-settings",
+		"/var/www/html/composer.json",
+		"/var/www/html/NeWLicenece/routes/web.php",
+		"/var/www/html/NeWLicenece/public/prohomepage/css/style.css"
+	],
+	"find":
+	{
+		"height": 67.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"}\n",
+			"checkQuantity",
+			"getProductBygroup",
+			"<h3 class=\"h6 text-uppercase mb-0\">Product Details</h3>",
+			"addToCart",
+			"add_product",
+			"add_product_modal",
+			"product_name_alert",
+			"details",
+			"Product",
+			"CURRENCY_TYPE",
+			"Helpers",
+			"removeFromCart",
+			"addToCart",
+			"/sales/addTocart",
+			"<button id=\"add-button\" type=\"submit\" class=\"btn btn-primary\">Add</button>",
+			"sales/order/invoice",
+			"decrementProductQuantity",
+			"Alert",
+			"addToCart",
+			"exampleModalLong",
+			"customer_id",
+			"<h6 class=\"text-uppercase mb-0\">Customer Details</h6>",
+			"sidebar-menu"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/posApp/resources/views/user/summary/index_summary.blade.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 1475,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 308.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "posApp.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"web ",
+				"webpack.mix.js"
+			],
+			[
+				"",
+				"routes/web.php"
+			],
+			[
+				"components/admin/head.blade.php",
+				"resources/views/components/admin/head.blade.php"
+			],
+			[
+				"custom",
+				"public/js/custom.js"
+			],
+			[
+				"new-blog-to-user-mail.blade.php",
+				"resources/views/emails/new-blog-to-user-mail.blade.php"
+			],
+			[
+				"Blogs",
+				"app/Http/Controllers/User/BlogsController.php"
+			],
+			[
+				"wep",
+				"vendor/monolog/monolog/src/Monolog/Processor/WebProcessor.php"
+			],
+			[
+				"welcome-mai.blade.php",
+				"resources/views/emails/newsletter-welcome-mail.blade.php"
+			],
+			[
+				"mail/newsletter-welcome-mail.blade.php",
+				"resources/views/mail/newsletter-welcome-mail.blade.php"
+			],
+			[
+				"ajax",
+				"public/assets/js/ajaxvalidation.js"
+			],
+			[
+				"components/user/blogs/blog-head.blade.php",
+				"resources/views/components/user/blogs/blog-head.blade.php"
+			],
+			[
+				"blog-article.blade.php",
+				"resources/views/components/user/blogs/blog-article.blade.php"
+			],
+			[
+				"admin/blogs/blogs.blade.php",
+				"resources/views/admin/blogs/blogs.blade.php"
+			],
+			[
+				"js/custom.js",
+				"public/js/custom.js"
+			],
+			[
+				"js/custom2.js",
+				"public/js/custom2.js"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"wiza",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"admin/design.blade.php",
+				"resources/views/admin/designs.blade.php"
+			],
+			[
+				"dash",
+				"resources/views/user/dashboard.blade.php"
+			],
+			[
+				"user",
+				"app/Models/User.php"
+			],
+			[
+				"aja",
+				"public/assets/js/ajaxvalidation.js"
+			],
+			[
+				"cus",
+				"public/js/custom.js"
+			],
+			[
+				"custom.js",
+				"public/js/custom.js"
+			],
+			[
+				"wi",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"w",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"admin/users.blade.php",
+				"resources/views/admin/users.blade.php"
+			],
+			[
+				"homepa",
+				"resources/views/layouts/homepage.blade.php"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				".log",
+				"storage/logs/laravel.log"
+			],
+			[
+				"subuser.bla",
+				"resources/views/user/subusers.blade.php"
+			],
+			[
+				"subuser.bl",
+				"resources/views/user/editsubuser.blade.php"
+			],
+			[
+				"tuto",
+				"resources/views/admin/tutorials.blade.php"
+			],
+			[
+				"tutori",
+				"resources/views/user/tutorials.blade.php"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"cu",
+				"public/js/custom.js"
+			],
+			[
+				"contac",
+				"resources/views/contactus.blade.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"LicenceC",
+				"app/Http/Controllers/Admin/LicenceController.php"
+			],
+			[
+				"Ho",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"cust",
+				"public/js/custom.js"
+			],
+			[
+				"wiz",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"Home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"Wi",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"projectcon",
+				"app/Models/ProjectConfig.php"
+			],
+			[
+				"ajx",
+				"public/assets/js/ajaxvalidation.js"
+			],
+			[
+				"ker",
+				"app/Console/Kernel.php"
+			],
+			[
+				"myplans",
+				"resources/views/user/myplans.blade.php"
+			],
+			[
+				"Wiza",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"inde",
+				"public/index.php"
+			],
+			[
+				"Wiz",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"seede",
+				"database/seeders/AdminSeeder.php"
+			],
+			[
+				"c",
+				"public/js/custom.js"
+			],
+			[
+				"AdminPal",
+				"app/Http/Controllers/Admin/AdminPlanController.php"
+			],
+			[
+				"mail",
+				"config/mail.php"
+			],
+			[
+				"W",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"AddO",
+				"app/Http/Controllers/User/AddonController.php"
+			],
+			[
+				"addo",
+				"resources/views/user/addon.blade.php"
+			],
+			[
+				"Ad",
+				"app/Http/Controllers/Admin/AddOnController.php"
+			],
+			[
+				"admin",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"Adoo",
+				"app/Http/Controllers/Admin/AddOnController.php"
+			],
+			[
+				"add",
+				"resources/views/admin/addons.blade.php"
+			],
+			[
+				"theme",
+				"app/Http/Controllers/Admin/ThemeController.php"
+			],
+			[
+				"newad",
+				"resources/views/admin/newaddon.blade.php"
+			],
+			[
+				"newthe",
+				"resources/views/admin/newtheme.blade.php"
+			],
+			[
+				"Theme",
+				"app/Models/Theme.php"
+			],
+			[
+				"wizard.bla",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"PC",
+				"app/Http/Controllers/PaymentController.php"
+			],
+			[
+				"Projec",
+				"app/Http/Controllers/Admin/ProjectController.php"
+			],
+			[
+				"mypla",
+				"resources/views/user/myplans.blade.php"
+			],
+			[
+				"user.bla",
+				"resources/views/layouts/user.blade.php"
+			],
+			[
+				"them",
+				"app/Models/theme.php"
+			],
+			[
+				"newtheme",
+				"resources/views/admin/newtheme.blade.php"
+			],
+			[
+				"m",
+				"config/mail.php"
+			],
+			[
+				"AddonS",
+				"app/Mail/AddonSuccessMail.php"
+			],
+			[
+				"U",
+				"app/Models/User.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 335.0,
+		"last_filter": "Submit",
+		"selected_items":
+		[
+			[
+				"Submit",
+				"submit"
+			],
+			[
+				"",
+				"C"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 495.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

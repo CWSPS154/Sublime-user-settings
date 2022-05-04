@@ -1,0 +1,13 @@
+<snippet>
+<content><![CDATA[
+\$this->validator(\$request->all())->validate();
+        ::create(
+            [
+            '' => \$request->input(''),
+            ]
+        );
+]]></content>
+<tabTrigger>CreateData</tabTrigger>
+<description>Insert Laravel Form Data</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, meta.class.php, meta.block.php, meta.function.php, meta.block.php, meta.function-call.static.php, variable.function.php</scope>
+</snippet>

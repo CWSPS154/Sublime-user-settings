@@ -1,0 +1,7 @@
+{
+	"on_save":true,
+	"phpcbf_on_save": true,
+	"phpmd_run": true,
+	"scheck_run": true,
+	"scheck_command_on_save": true,
+}

@@ -1,0 +1,1413 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"w",
+				"w-25"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"des",
+				"designer"
+			],
+			[
+				"das",
+				"dashboard"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"a",
+				"autocomplete"
+			],
+			[
+				"card-t",
+				"card-title"
+			],
+			[
+				"bu",
+				"business_id"
+			],
+			[
+				"_",
+				"_blank"
+			],
+			[
+				"r",
+				"result"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"border",
+				"border"
+			],
+			[
+				"mb",
+				"mb-3"
+			],
+			[
+				"home",
+				"homepage"
+			],
+			[
+				"add",
+				"addon"
+			],
+			[
+				"s",
+				"status"
+			],
+			[
+				"th",
+				"themes"
+			],
+			[
+				"t",
+				"$themeUser〔variable〕"
+			],
+			[
+				"se",
+				"select"
+			],
+			[
+				"P",
+				"Payment"
+			],
+			[
+				"e",
+				"else"
+			],
+			[
+				"the",
+				"theme_id"
+			],
+			[
+				"pr",
+				"printErrorMsgs"
+			],
+			[
+				"ajax",
+				"ajaxFormat"
+			],
+			[
+				"data",
+				"data-id"
+			],
+			[
+				"co",
+				"continue"
+			],
+			[
+				"bor",
+				"border-radius-xl"
+			],
+			[
+				"p",
+				"project_id"
+			],
+			[
+				"au",
+				"autocomplete"
+			],
+			[
+				"ty",
+				"type"
+			],
+			[
+				"theme",
+				"themeUser"
+			],
+			[
+				"pro",
+				"project_id"
+			],
+			[
+				"of",
+				"offerUser"
+			],
+			[
+				"to",
+				"touchend"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"els",
+				"elseif〔keyword〕"
+			],
+			[
+				"pla",
+				"plan_id"
+			],
+			[
+				"for",
+				"foreach〔keyword〕"
+			],
+			[
+				"d",
+				"disabled"
+			],
+			[
+				"us",
+				"user"
+			],
+			[
+				"L",
+				"$LicenceUser〔variable〕"
+			],
+			[
+				"parent",
+				"parent_id"
+			],
+			[
+				"poje",
+				"project_name"
+			],
+			[
+				"pl",
+				"plans"
+			],
+			[
+				"wi",
+				"with"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"De",
+				"Description"
+			],
+			[
+				"l",
+				"$licenceUser〔variable〕"
+			],
+			[
+				"di",
+				"disabled"
+			],
+			[
+				"Li",
+				"LicenceType"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"Licence",
+				"LicenceType"
+			],
+			[
+				"Eas",
+				"EasyCLIQ"
+			],
+			[
+				"cl",
+				"client_id"
+			],
+			[
+				"Lic",
+				"LicenceType"
+			],
+			[
+				"la",
+				"label"
+			],
+			[
+				"d-",
+				"d-none"
+			],
+			[
+				"k",
+				"key"
+			],
+			[
+				"mon",
+				"monthly"
+			],
+			[
+				"va",
+				"validity"
+			],
+			[
+				"typ",
+				"type_id"
+			],
+			[
+				"pre",
+				"premium"
+			],
+			[
+				"te",
+				"text-capitalize"
+			],
+			[
+				"lic",
+				"LicenceType"
+			],
+			[
+				"Re",
+				"required"
+			],
+			[
+				"Ne",
+				"NewTable"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"ro",
+				"rows"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"op",
+				"option"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"S",
+				"Something"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"verif",
+				"verified"
+			],
+			[
+				"ve",
+				"verify"
+			],
+			[
+				"form",
+				"format('d-M-Y"
+			],
+			[
+				"cu",
+				"currency"
+			],
+			[
+				"CURRENCY",
+				"CURRENCY_SYMBOL"
+			],
+			[
+				"CURR",
+				"CURRENCY_SYMBOL"
+			],
+			[
+				"col",
+				"col-md-6"
+			],
+			[
+				"mt",
+				"mt-4"
+			],
+			[
+				"Pla",
+				"PlanUser〔namespace〕"
+			],
+			[
+				"pa",
+				"payment_id"
+			],
+			[
+				"Add",
+				"AddOn"
+			],
+			[
+				"u",
+				"$userAddon〔variable〕"
+			],
+			[
+				"ad",
+				"addonId"
+			],
+			[
+				"Pa",
+				"PaymentItem"
+			],
+			[
+				"pay",
+				"payment"
+			],
+			[
+				"U",
+				"$UserTheme〔variable〕"
+			],
+			[
+				"max",
+				"max-height"
+			],
+			[
+				"N",
+				"NewModel"
+			],
+			[
+				"Ca",
+				"Canceled"
+			],
+			[
+				"Up",
+				"Upgrading"
+			],
+			[
+				"plan_",
+				"plan_id"
+			],
+			[
+				"Theme",
+				"ThemeUser"
+			],
+			[
+				"my",
+				"myId"
+			],
+			[
+				"Us",
+				"UserPlan"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"Payme",
+				"Payment"
+			],
+			[
+				"Ex",
+				"Expired"
+			],
+			[
+				"backgr",
+				"background-image"
+			],
+			[
+				"st",
+				"style"
+			],
+			[
+				"pading",
+				"padding-left"
+			],
+			[
+				"h",
+				"h-100"
+			],
+			[
+				"fad",
+				"fadeOut"
+			],
+			[
+				"set",
+				"setTimeout〔function〕"
+			],
+			[
+				"meth",
+				"method"
+			],
+			[
+				"htt",
+				"https"
+			],
+			[
+				"Th",
+				"ThemeUser"
+			],
+			[
+				"T",
+				"Transaction"
+			],
+			[
+				"payme",
+				"paymentItem"
+			],
+			[
+				"Ac",
+				"Active"
+			],
+			[
+				"dd",
+				"dd"
+			],
+			[
+				"text",
+				"text-white"
+			],
+			[
+				"tra",
+				"transactions"
+			],
+			[
+				"paymen",
+				"paymentitems"
+			],
+			[
+				"aja",
+				"ajaxFormat"
+			],
+			[
+				"Plan",
+				"PlanUser〔namespace〕"
+			],
+			[
+				"payab",
+				"payable_type"
+			],
+			[
+				"Paymm",
+				"paymentItem"
+			],
+			[
+				"n",
+				"$new_user_addon〔variable〕"
+			],
+			[
+				"use",
+				"user_addon"
+			],
+			[
+				"Ad",
+				"AddOn"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/s-cart-new/LICENSE",
+			"settings":
+			{
+				"buffer_size": 1063,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/s-cart-new/vendor/s-cart/core/src/Admin/Controllers/DashboardController.php",
+			"settings":
+			{
+				"buffer_size": 4088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/s-cart-new/resources/views/templates/s-cart-light/main.blade.php",
+			"settings":
+			{
+				"buffer_size": 5569,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/var/www/html/s-cart-new/app/Http/Controllers/RootAdminController.php",
+			"settings":
+			{
+				"buffer_size": 311,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ser",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"serv",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"serve",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"l",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"laravel",
+				"Laravel Artisan 5: Route:List"
+			],
+			[
+				"la",
+				"Laravel Artisan 5: List"
+			],
+			[
+				"new",
+				"Project Manager: Add New Project"
+			],
+			[
+				"open",
+				"Project Manager: Open Project in New Window"
+			],
+			[
+				"remove",
+				"Project Manager: Remove Project"
+			],
+			[
+				"new pro",
+				"Project Manager: Add New Project"
+			],
+			[
+				"blade",
+				"Snippet: Blade {{ echo escaped data }}"
+			],
+			[
+				"blade va",
+				"Snippet: Blade @verbatim"
+			],
+			[
+				"cache",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"migr",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"snipetMa",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"makeer",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"migra",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"make",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"clear",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"make:c",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:cont",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:mi",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				":cache",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"cac",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"route",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"make:",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"sinp",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snippet",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"snipen",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snipetma",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"compa",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"php cs",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"Php",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/s-cart-new",
+		"/var/www/html/s-cart-new/app",
+		"/var/www/html/s-cart-new/app/Http",
+		"/var/www/html/s-cart-new/app/Http/Controllers",
+		"/var/www/html/s-cart-new/resources",
+		"/var/www/html/s-cart-new/resources/views",
+		"/var/www/html/s-cart-new/resources/views/templates",
+		"/var/www/html/s-cart-new/resources/views/templates/s-cart-light",
+		"/var/www/html/s-cart-new/resources/views/templates/s-cart-light/screen"
+	],
+	"file_history":
+	[
+		"/home/sanoop/Downloads/paper-dashboard-master/examples/dashboard.html",
+		"/var/www/html/s-cart-new/vendor/s-cart/core/src/DB/sample.sql",
+		"/home/sanoop/Downloads/s-cart-light6.7/s-cart-light/src/layout.blade.php",
+		"/home/sanoop/Downloads/s-cart-light6.7/s-cart-light/src/account/index.blade.php",
+		"/var/www/html/s-cart/resources/views/admin/layout.blade.php",
+		"/var/www/html/s-cart/database/migrations/2020_00_00_step3_insert_database_admin.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Designer/DesignerController.php",
+		"/var/www/html/NeWLicenece/app/Models/Design.php",
+		"/var/www/html/NeWLicenece/app/Models/User.php",
+		"/home/sanoop/.config/sublime-text-3/Packages/User/Snippets/CreateData.sublime-snippet",
+		"/var/www/html/NeWLicenece/routes/web.php",
+		"/var/www/html/NeWLicenece/resources/views/layouts/designer.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/designer/mydesigns.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/designer/newdesign.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/addons.blade.php",
+		"/var/www/html/NeWLicenece/database/migrations/2021_12_10_171900_create_designs_table.php",
+		"/home/sanoop/.config/sublime-text-3/Packages/User/Snippets/layout.sublime-snippet",
+		"/home/sanoop/.config/sublime-text-3/Packages/User/Snippets/Validatior.sublime-snippet",
+		"/var/www/html/NeWLicenece/resources/views/designer/dashboard.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/layouts/homepage.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/layouts/homepage_extend.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Middleware/AdminAuthenticated​.php",
+		"/var/www/html/NeWLicenece/app/Http/Middleware/DesignerAuthenticated.php",
+		"/var/www/html/NeWLicenece/app/Http/Middleware/PremiumAuthenticated.php",
+		"/var/www/html/NeWLicenece/app/Http/Middleware/SubUserAuthenticated.php",
+		"/var/www/html/NeWLicenece/app/Http/Middleware/UserAuthenticated.php",
+		"/var/www/html/NeWLicenece/resources/views/designer.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/HomeController.php",
+		"/var/www/html/NeWLicenece/public/js/custom2.js",
+		"/var/www/html/NeWLicenece/app/Http/Kernel.php",
+		"/var/www/html/NeWLicenece/public/js/custom.js",
+		"/var/www/html/NeWLicenece/resources/views/contactus.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/layouts/admin.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Admin/AdminController.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Auth/LoginController.php",
+		"/var/www/html/NeWLicenece/public/assets/js/ajaxvalidation.js",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/DesignersController.php",
+		"/var/www/html/NeWLicenece/resources/views/livewire/wizard.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/userprofile.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/users.blade.php",
+		"/var/www/html/NeWLicenece/codilar_licence.sql",
+		"/var/www/html/NeWLicenece/app/Models/Designer.php",
+		"/var/www/html/NeWLicenece/.env",
+		"/var/www/html/NeWLicenece/resources/views/layouts/app.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/pricing.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/wizard.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/wizard_trail.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/jewellery.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/fashionfeatures.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/jewelleryfeatures.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/user/tutorials.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/layouts/login.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/layouts/prohomepage.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/layouts/user.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/user/editsubuser.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/user/subusers.blade.php",
+		"/var/www/html/NeWLicenece/storage/logs/laravel.log",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/MySubUsersController.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/tutorials.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/MyPlansController.php",
+		"/home/sanoop/Downloads/popup",
+		"/var/www/html/NeWLicenece/public/assets/css/custom-style.css",
+		"/var/www/html/NeWLicenece/public/homepage/css/style.css",
+		"/var/www/html/NeWLicenece/public/homepage/css/style2.css",
+		"/var/www/html/NeWLicenece/resources/views/user/billing.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/AddonController.php",
+		"/home/sanoop/Downloads/Hyzaplans-20211201T044133Z-001/Hyzaplans/plans.html",
+		"/var/www/html/NeWLicenece/public/assets/css/pricing.css",
+		"/var/www/html/NeWLicenece/public/homepage/css/header.css",
+		"/var/www/html/NeWLicenece/resources/views/layouts/extend_homepage.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/auth/register.blade.php",
+		"/var/www/html/NeWLicenece/vendor/laravel/framework/src/Illuminate/Foundation/Inspiring.php",
+		"/var/www/html/NeWLicenece/resources/views/user/myplans.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/user/storesetup.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/licence.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Admin/AdminPlanController.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/edittheme.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/plans.blade.php",
+		"/var/www/html/NeWLicenece/config/mail.php",
+		"/var/www/html/NeWLicenece/themes/demo/blocks/header/view.php",
+		"/var/www/html/NeWLicenece/themes/demo/layouts/master/view.php",
+		"/var/www/html/NeWLicenece/config/pagebuilder.php",
+		"/var/www/html/NeWLicenece/themes/demo/blocks/header/view.html",
+		"/var/www/html/NeWLicenece/themes/demo/layouts/hyzatheme/view.php",
+		"/var/www/html/NeWLicenece/themes/demo/blocks/footer/view.php",
+		"/var/www/html/NeWLicenece/themes/demo/blocks/features/view.php",
+		"/var/www/html/NeWLicenece/resources/views/user/upgradeplan.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/errors/minimal.blade.php",
+		"/var/www/html/NeWLicenece/app/Providers/AppServiceProvider.php",
+		"/var/www/html/NeWLicenece/app/Http/Livewire/Wizard.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Admin/LicenceController.php",
+		"/var/www/html/NeWLicenece/resources/views/user/myoffers.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/MagentoCatalog.php",
+		"/var/www/html/NeWLicenece/vendor/laravel/framework/src/Illuminate/Testing/TestResponse.php",
+		"/var/www/html/NeWLicenece/database/migrations/2021_11_23_113814_new_column_status.php",
+		"/var/www/html/NeWLicenece/app/Models/ThemeUser.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/domaindetails.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/errors/500.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/furniturefeatures.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/errors/503.blade.php",
+		"/var/www/html/NeWLicenece/app/Console/Kernel.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/MyOffersController.php",
+		"/var/www/html/NeWLicenece/resources/views/emails/DomainRegistrationMailToUser.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/emails/DomainRegistrationFailedMailToUser.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/SupportAndSolutionController.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/ProjectConfigController.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/DomainSetupController.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/supportnsolutions.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/user/supportandsolution.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Admin/OfferController.php",
+		"/home/sanoop/Downloads/scratch_card-20211120T072008Z-001/scratch_card/scratch_cardText.html",
+		"/home/sanoop/Downloads/scratch_card-20211120T072008Z-001/scratch_card/scratch_card2.html",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Admin/ProjectController.php",
+		"/var/www/html/NeWLicenece/resources/views/user/purchaselicencekey.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/UserController.php",
+		"/var/www/html/NeWLicenece/database/migrations/2021_11_19_231625_new_column_project_id.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/newaddon.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/editaddon.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Admin/AddOnController.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/Admin/ThemeController.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/newproject.blade.php",
+		"/var/www/html/NeWLicenece/resources/views/admin/editproject.blade.php",
+		"/var/www/html/NeWLicenece/app/Models/AddOn.php",
+		"/var/www/html/NeWLicenece/app/Models/Project.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/ProfileController.php",
+		"/var/www/html/NeWLicenece/resources/views/user/userprofile.blade.php",
+		"/var/www/html/NeWLicenece/app/Http/Controllers/User/LicenceKeyController.php",
+		"/var/www/html/NeWLicenece/resources/views/user/addon.blade.php"
+	],
+	"find":
+	{
+		"height": 33.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/s-cart-new/LICENSE",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1063,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1063,
+								1063
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/var/www/html/s-cart-new/vendor/s-cart/core/src/Admin/Controllers/DashboardController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								343,
+								343
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 216.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/var/www/html/s-cart-new/resources/views/templates/s-cart-light/main.blade.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 5569,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/var/www/html/s-cart-new/app/Http/Controllers/RootAdminController.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 311,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								310,
+								310
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 162.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "s-cart-new.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"DashboardController",
+				"vendor/s-cart/core/src/Admin/Controllers/DashboardController.php"
+			],
+			[
+				"we",
+				"routes/web.php"
+			],
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				"user",
+				"app/Models/User.php"
+			],
+			[
+				"wiza",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"aja",
+				"public/assets/js/ajaxvalidation.js"
+			],
+			[
+				"cus",
+				"public/js/custom.js"
+			],
+			[
+				"custom.js",
+				"public/js/custom.js"
+			],
+			[
+				"wi",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"w",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"admin/users.blade.php",
+				"resources/views/admin/users.blade.php"
+			],
+			[
+				"homepa",
+				"resources/views/layouts/homepage.blade.php"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				".log",
+				"storage/logs/laravel.log"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"subuser.bla",
+				"resources/views/user/subusers.blade.php"
+			],
+			[
+				"subuser.bl",
+				"resources/views/user/editsubuser.blade.php"
+			],
+			[
+				"tuto",
+				"resources/views/admin/tutorials.blade.php"
+			],
+			[
+				"tutori",
+				"resources/views/user/tutorials.blade.php"
+			],
+			[
+				"home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"cu",
+				"public/js/custom.js"
+			],
+			[
+				"ajax",
+				"public/assets/js/ajaxvalidation.js"
+			],
+			[
+				"contac",
+				"resources/views/contactus.blade.php"
+			],
+			[
+				".e",
+				".env"
+			],
+			[
+				"LicenceC",
+				"app/Http/Controllers/Admin/LicenceController.php"
+			],
+			[
+				"",
+				"app/Http/Controllers/User/ProfileController.php"
+			],
+			[
+				"Ho",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"cust",
+				"public/js/custom.js"
+			],
+			[
+				"custom",
+				"public/js/custom.js"
+			],
+			[
+				"wiz",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"Home",
+				"app/Http/Controllers/HomeController.php"
+			],
+			[
+				"Wi",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"projectcon",
+				"app/Models/ProjectConfig.php"
+			],
+			[
+				"ajx",
+				"public/assets/js/ajaxvalidation.js"
+			],
+			[
+				"ker",
+				"app/Console/Kernel.php"
+			],
+			[
+				"myplans",
+				"resources/views/user/myplans.blade.php"
+			],
+			[
+				"Wiza",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"inde",
+				"public/index.php"
+			],
+			[
+				"Wiz",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"seede",
+				"database/seeders/AdminSeeder.php"
+			],
+			[
+				"c",
+				"public/js/custom.js"
+			],
+			[
+				"AdminPal",
+				"app/Http/Controllers/Admin/AdminPlanController.php"
+			],
+			[
+				"mail",
+				"config/mail.php"
+			],
+			[
+				"W",
+				"app/Http/Livewire/Wizard.php"
+			],
+			[
+				"AddO",
+				"app/Http/Controllers/User/AddonController.php"
+			],
+			[
+				"addo",
+				"resources/views/user/addon.blade.php"
+			],
+			[
+				"Ad",
+				"app/Http/Controllers/Admin/AddOnController.php"
+			],
+			[
+				"admin",
+				"resources/views/layouts/admin.blade.php"
+			],
+			[
+				"Adoo",
+				"app/Http/Controllers/Admin/AddOnController.php"
+			],
+			[
+				"add",
+				"resources/views/admin/addons.blade.php"
+			],
+			[
+				"theme",
+				"app/Http/Controllers/Admin/ThemeController.php"
+			],
+			[
+				"newad",
+				"resources/views/admin/newaddon.blade.php"
+			],
+			[
+				"newthe",
+				"resources/views/admin/newtheme.blade.php"
+			],
+			[
+				"Theme",
+				"app/Models/Theme.php"
+			],
+			[
+				"wizard.bla",
+				"resources/views/livewire/wizard.blade.php"
+			],
+			[
+				"PC",
+				"app/Http/Controllers/PaymentController.php"
+			],
+			[
+				"Projec",
+				"app/Http/Controllers/Admin/ProjectController.php"
+			],
+			[
+				"mypla",
+				"resources/views/user/myplans.blade.php"
+			],
+			[
+				"user.bla",
+				"resources/views/layouts/user.blade.php"
+			],
+			[
+				"them",
+				"app/Models/theme.php"
+			],
+			[
+				"newtheme",
+				"resources/views/admin/newtheme.blade.php"
+			],
+			[
+				"m",
+				"config/mail.php"
+			],
+			[
+				"AddonS",
+				"app/Mail/AddonSuccessMail.php"
+			],
+			[
+				"U",
+				"app/Models/User.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 335.0,
+		"last_filter": "Submit",
+		"selected_items":
+		[
+			[
+				"Submit",
+				"submit"
+			],
+			[
+				"",
+				"C"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 405.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

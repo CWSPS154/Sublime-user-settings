@@ -1,0 +1,8 @@
+<snippet>
+<content><![CDATA[
+₹
+]]></content>
+<tabTrigger>rupee</tabTrigger>
+<description>Rupee Symbol</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

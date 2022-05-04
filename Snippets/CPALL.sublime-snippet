@@ -1,0 +1,17 @@
+<snippet>
+<content><![CDATA[
+*
+ * @category Controller
+ *
+ * @package Laravel
+ *
+ * @author CWSPS154 <codewithsps154@gmail.com>
+ *
+ * @license MIT License https://opensource.org/licenses/MIT
+ *
+ * @link https://github.com/CWSPS1
+]]></content>
+<tabTrigger>CPALL</tabTrigger>
+<description>Category Package Author License Link Description</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, comment.block.documentation.phpdoc.php, punctuation.definition.comment.php</scope>
+</snippet>
