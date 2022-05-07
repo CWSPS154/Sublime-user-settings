@@ -520,10 +520,10 @@
 	"buffers":
 	[
 		{
-			"file": "/var/www/html/posApp/resources/views/user/summary/index_summary.blade.php",
+			"file": "/var/www/html/posApp2/.gitignore",
 			"settings":
 			{
-				"buffer_size": 1475,
+				"buffer_size": 207,
 				"line_ending": "Unix"
 			}
 		}
@@ -936,17 +936,7 @@
 	},
 	"expanded_folders":
 	[
-		"/var/www/html/posApp",
-		"/var/www/html/posApp/app",
-		"/var/www/html/posApp/app/Http",
-		"/var/www/html/posApp/app/Http/Controllers",
-		"/var/www/html/posApp/app/Http/Controllers/User",
-		"/var/www/html/posApp/resources",
-		"/var/www/html/posApp/resources/views",
-		"/var/www/html/posApp/resources/views/components",
-		"/var/www/html/posApp/resources/views/components/admin",
-		"/var/www/html/posApp/resources/views/user",
-		"/var/www/html/posApp/resources/views/user/summary"
+		"/var/www/html/posApp2"
 	],
 	"file_history":
 	[
@@ -1143,12 +1133,12 @@
 			[
 				{
 					"buffer": 0,
-					"file": "/var/www/html/posApp/resources/views/user/summary/index_summary.blade.php",
+					"file": "/var/www/html/posApp2/.gitignore",
 					"selected": true,
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1475,
+						"buffer_size": 207,
 						"regions":
 						{
 						},
@@ -1161,12 +1151,10 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Laravel Blade Highlighter/blade.sublime-syntax",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": false
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 308.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
