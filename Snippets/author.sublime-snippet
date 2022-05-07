@@ -1,0 +1,22 @@
+<snippet>
+<content><![CDATA[
+/**
+ * ${1}.php
+ *
+ *
+ * @category   Null
+ * @package    ${2}
+ * @author     Sanoop
+ * @copyright  2021@Sanoop.ps
+ * @license    http://www.php.net/license/3_0.txt  PHP License 3.0
+ * @version    CVS: \$Id:\$
+ * @link       http://pear.php.net/package/PackageName
+ * @see        NetOther, Net_Sample::Net_Sample()
+ * @since      File available since Release 1.2.0
+ * @deprecated File deprecated in Release 2.0.0
+ */
+]]></content>
+<tabTrigger>author</tabTrigger>
+<description>Author details</description>
+<scope>embedding.php, text.html.basic, meta.embedded.block.php, source.php, comment.block.documentation.phpdoc.php, punctuation.definition.comment.begin.php</scope>
+</snippet>

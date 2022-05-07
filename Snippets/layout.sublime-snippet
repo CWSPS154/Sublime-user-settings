@@ -1,0 +1,11 @@
+<snippet>
+<content><![CDATA[
+@extends('layouts.${1}',['title' => '${2}','path' => [${3}]])
+@section('content')
+	${0}
+@endsection
+]]></content>
+<tabTrigger>layout</tabTrigger>
+<description>Extend Layout</description>
+<scope>embedding.php, text.html.basic</scope>
+</snippet>

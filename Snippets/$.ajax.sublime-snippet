@@ -1,0 +1,27 @@
+<snippet>
+<content><![CDATA[
+\$.ajax({
+    url: "${1}",
+    type: '${2}',
+    data: {${3}},
+    headers: {
+        'X-CSRF-TOKEN': \$('meta[name="csrf-token"]').attr('content')
+    },
+    beforeSend: function () 
+    {
+        ${4}
+    },
+    success: function (result) 
+    {
+        ${5}
+    },
+    error: function (result) 
+    {
+       ${6}           
+    }
+});
+]]></content>
+<tabTrigger>$.ajax</tabTrigger>
+<description>AjaxFormat</description>
+<scope>text.blade, text.html.blade, source.js.embedded.html, source.js, meta.function.js, meta.block.js, meta.function-call.method.js, variable.other.dollar.only.js, punctuation.dollar.js</scope>
+</snippet>

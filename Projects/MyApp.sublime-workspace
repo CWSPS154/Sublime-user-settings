@@ -1,0 +1,1549 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"n",
+				"unset"
+			],
+			[
+				"selec",
+				"select-this"
+			],
+			[
+				"da",
+				"data_id"
+			],
+			[
+				"s",
+				"select_all"
+			],
+			[
+				"pa",
+				"parent_id"
+			],
+			[
+				"p",
+				"$permissionsArray〔variable〕"
+			],
+			[
+				"m",
+				"$menus〔variable〕"
+			],
+			[
+				"d",
+				"dump"
+			],
+			[
+				"is_n",
+				"is_null"
+			],
+			[
+				"ret",
+				"return〔keyword〕"
+			],
+			[
+				"el",
+				"else"
+			],
+			[
+				"pe",
+				"permissions"
+			],
+			[
+				"c",
+				"children"
+			],
+			[
+				"ch",
+				"children"
+			],
+			[
+				"els",
+				"elseif〔keyword〕"
+			],
+			[
+				"de",
+				"description"
+			],
+			[
+				"w",
+				"where"
+			],
+			[
+				"sc",
+				"schedule"
+			],
+			[
+				"text-w",
+				"text-wrap"
+			],
+			[
+				"bar",
+				"background-repeat"
+			],
+			[
+				"b",
+				"background-color"
+			],
+			[
+				"text-b",
+				"text-break"
+			],
+			[
+				"im",
+				"img-fluid"
+			],
+			[
+				"conver",
+				"conversion"
+			],
+			[
+				"ti",
+				"tinymce"
+			],
+			[
+				"le",
+				"length"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ju",
+				"justify-content-start"
+			],
+			[
+				"all",
+				"Laravel"
+			],
+			[
+				"re",
+				"response"
+			],
+			[
+				"r",
+				"$response〔variable〕"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"view",
+				"View::composer"
+			],
+			[
+				"Ex",
+				"Exception"
+			],
+			[
+				"tr",
+				"trending"
+			],
+			[
+				"me",
+				"meta_description"
+			],
+			[
+				"new",
+				"newsPosts"
+			],
+			[
+				"meta_",
+				"meta_description"
+			],
+			[
+				"pos",
+				"post_url"
+			],
+			[
+				"des",
+				"description"
+			],
+			[
+				"news",
+				"news_post_categories"
+			],
+			[
+				"news_po",
+				"news_post_categories"
+			],
+			[
+				"belon",
+				"Relation::belongsToMany"
+			],
+			[
+				"wid",
+				"widgets"
+			],
+			[
+				"Wi",
+				"Widgets"
+			],
+			[
+				"De",
+				"Delete"
+			],
+			[
+				"id",
+				"identifier"
+			],
+			[
+				"ov",
+				"overflow-hidden"
+			],
+			[
+				"bor",
+				"border-danger"
+			],
+			[
+				"bo",
+				"border-dark"
+			],
+			[
+				"aut",
+				"autocomplete"
+			],
+			[
+				"se",
+				"selected"
+			],
+			[
+				"mx",
+				"mx-0"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"t",
+				"$type〔variable〕"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"sel",
+				"self〔keyword〕"
+			],
+			[
+				"opt",
+				"option"
+			],
+			[
+				"ISD",
+				"IS_DASHBOARD"
+			],
+			[
+				"country",
+				"country_name"
+			],
+			[
+				"coun",
+				"country"
+			],
+			[
+				"ca",
+				"catch"
+			],
+			[
+				"la",
+				"latitude"
+			],
+			[
+				"lo",
+				"log"
+			],
+			[
+				"rol",
+				"role_level"
+			],
+			[
+				"text",
+				"text-lowercase"
+			],
+			[
+				"text-c",
+				"text-center"
+			],
+			[
+				"j",
+				"justify-content-center"
+			],
+			[
+				"align-baseline",
+				"align-self-baseline"
+			],
+			[
+				"alig",
+				"align-baseline"
+			],
+			[
+				"text-l",
+				"text-lowercase"
+			],
+			[
+				"print",
+				"print_r()"
+			],
+			[
+				"text-d",
+				"text-decoration-none"
+			],
+			[
+				"bg-s",
+				"bg-success"
+			],
+			[
+				"noti",
+				"notifications"
+			],
+			[
+				"mt",
+				"mt-2"
+			],
+			[
+				"w-",
+				"w-25"
+			],
+			[
+				"gett",
+				"gettype()"
+			],
+			[
+				"per",
+				"permissionsArray"
+			],
+			[
+				"mb",
+				"mb-1"
+			],
+			[
+				"text-r",
+				"text-right"
+			],
+			[
+				"config",
+				"config_name"
+			],
+			[
+				"edit",
+				"editable"
+			],
+			[
+				"app",
+				"app_setting"
+			],
+			[
+				"text-",
+				"text-white"
+			],
+			[
+				"a",
+				"$app_setting〔variable〕"
+			],
+			[
+				"ap",
+				"app_setting"
+			],
+			[
+				"conf",
+				"config_default_value"
+			],
+			[
+				"cre",
+				"created_at"
+			],
+			[
+				"encr",
+				"encrypt"
+			],
+			[
+				"ser",
+				"service"
+			],
+			[
+				"env",
+				"env_name"
+			],
+			[
+				"create",
+				"CreateData"
+			],
+			[
+				"config_",
+				"config_name"
+			],
+			[
+				"tex",
+				"text-justify"
+			],
+			[
+				"belongs",
+				"Relation::belongsToMany"
+			],
+			[
+				"hasma",
+				"Relation::hasMany"
+			],
+			[
+				"succ",
+				"successfully"
+			],
+			[
+				"ROl",
+				"RolePermission"
+			],
+			[
+				"i",
+				"is_admin"
+			],
+			[
+				"is_",
+				"is_for_admin"
+			],
+			[
+				"u",
+				"user"
+			],
+			[
+				"th",
+				"$this"
+			],
+			[
+				"mt-lg",
+				"mt-lg-2"
+			],
+			[
+				"d-lg",
+				"d-lg-flex"
+			],
+			[
+				"ri",
+				"float-right"
+			],
+			[
+				"bg-w",
+				"bg-white"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"d-",
+				"d-flex"
+			],
+			[
+				"ro",
+				"rounded"
+			],
+			[
+				"text-s",
+				"text-success"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"Auth",
+				"Auth::check"
+			],
+			[
+				"bg-",
+				"bg-danger"
+			],
+			[
+				"Cache",
+				"Cache::put"
+			],
+			[
+				"A",
+				"Auth"
+			],
+			[
+				"un",
+				"unreadNotificationCount"
+			],
+			[
+				"imp",
+				"implode〔function〕"
+			],
+			[
+				"S",
+				"Session"
+			],
+			[
+				"R",
+				"RolePermission"
+			],
+			[
+				"ml-md",
+				"ml-md-2"
+			],
+			[
+				"btn-l",
+				"btn-link"
+			],
+			[
+				"sub",
+				"submenu"
+			],
+			[
+				"IS",
+				"IS_SUBMENU"
+			],
+			[
+				"permis",
+				"permission"
+			],
+			[
+				"h",
+				"have-access"
+			],
+			[
+				"table-s",
+				"table-sm"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/var/www/html/MyApp/routes/web.php",
+			"settings":
+			{
+				"buffer_size": 3686,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"edi",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"d",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"ed",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"dd",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"cache",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"conf",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"qu",
+				"Laravel Artisan 5: Queue:Work"
+			],
+			[
+				"config",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"quw",
+				"Laravel Artisan 5: Queue:Work"
+			],
+			[
+				"clear",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"que",
+				"Laravel Artisan 5: Queue:Work"
+			],
+			[
+				"cle",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"mi",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"serve",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"clea",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"cche",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"mid",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"open",
+				"Open URL: Settings"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"ca",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"confi",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"fact",
+				"Laravel Artisan 5: Make:Factory"
+			],
+			[
+				"db",
+				"Laravel Artisan 5: DB:Seed"
+			],
+			[
+				"migrat",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"roll",
+				"Laravel Artisan 5: Migrate:Rollback"
+			],
+			[
+				"queue",
+				"Laravel Artisan 5: Queue:Work"
+			],
+			[
+				"work",
+				"Laravel Artisan 5: Queue:Work"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"st",
+				"Set Syntax: TSX"
+			],
+			[
+				"mig",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"serv",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"mode",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"cach",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"view",
+				"Laravel Artisan 5: View:Clear"
+			],
+			[
+				"migr",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"m",
+				"Laravel Artisan 5: Migrate"
+			],
+			[
+				"make:mode",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"route",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"contr",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"snippet:make",
+				"SnippetMaker: Make Snippet"
+			],
+			[
+				"vie",
+				"Laravel Artisan 5: View:Clear"
+			],
+			[
+				"midd",
+				"Laravel Artisan 5: Make:Middleware"
+			],
+			[
+				"cache:c",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"cac",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"cache:",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"fres",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"fre",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"wo",
+				"Laravel Artisan 5: Queue:Work"
+			],
+			[
+				"make:con",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"make:model",
+				"Laravel Artisan 5: Make:Model"
+			],
+			[
+				"rou",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"db:s",
+				"Laravel Artisan 5: DB:Seed"
+			],
+			[
+				"wor",
+				"Laravel Artisan 5: Queue:Work"
+			],
+			[
+				"fr",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"comm",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"seed",
+				"Laravel Artisan 5: Make:Seeder"
+			],
+			[
+				"project",
+				"Project Manager"
+			],
+			[
+				"add",
+				"Project Manager: Add New Project"
+			],
+			[
+				"frd",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"lis",
+				"Laravel Artisan 5: Make:Listener"
+			],
+			[
+				"event",
+				"Laravel Artisan 5: Make:Event"
+			],
+			[
+				"fresh",
+				"Laravel Artisan 5: Migrate:Fresh (Drop all tables and re-run all migrations)"
+			],
+			[
+				"ser",
+				"Laravel Artisan 5: Serve"
+			],
+			[
+				"con",
+				"Laravel Artisan 5: Config:Cache"
+			],
+			[
+				"cont",
+				"Laravel Artisan 5: Make:Controller"
+			],
+			[
+				"Sni",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Valida",
+				"Snippet: Laravel validator"
+			],
+			[
+				"policy",
+				"Laravel Artisan 5: Make Policy"
+			],
+			[
+				"pol",
+				"Laravel Artisan 5: Make Policy"
+			],
+			[
+				"comme",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"notifi",
+				"Laravel Artisan 5: Make:Notification"
+			],
+			[
+				"list",
+				"Laravel Artisan 5: Make:Listener"
+			],
+			[
+				"rule",
+				"Laravel Artisan 5: Make Rule"
+			],
+			[
+				"view:c",
+				"Laravel Artisan 5: View:Clear"
+			],
+			[
+				"Not",
+				"Laravel Artisan 5: Make:Notification"
+			],
+			[
+				"liste",
+				"Laravel Artisan 5: Make:Listener"
+			],
+			[
+				"Edit",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"Snippet:lar",
+				"Snippet: Laravel validator"
+			],
+			[
+				"valida",
+				"Snippet: Laravel validator"
+			],
+			[
+				"comment",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"dox",
+				"DoxyDoxygen: Comment All"
+			],
+			[
+				"eve",
+				"Laravel Artisan 5: Make:Event"
+			],
+			[
+				"cahce",
+				"Laravel Artisan: Cache: Clear"
+			],
+			[
+				"r",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"refre",
+				"Laravel Artisan 5: Migrate:Refresh (Reset and re-run all migrations)"
+			],
+			[
+				"refres",
+				"Laravel Artisan 5: Migrate:Refresh (Reset and re-run all migrations)"
+			],
+			[
+				"claer",
+				"Laravel Artisan 5: Route:Clear"
+			],
+			[
+				"cahc",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"ro",
+				"Laravel Artisan 5: Route:Cache"
+			],
+			[
+				"listn",
+				"Laravel Artisan 5: Make:Listener"
+			],
+			[
+				"notif",
+				"Laravel Artisan 5: Make:Notification"
+			],
+			[
+				"migra",
+				"Laravel Artisan: Migrate"
+			],
+			[
+				"Listner",
+				"Laravel Artisan 5: Make:Listener"
+			],
+			[
+				"cla",
+				"Laravel Artisan 5: Cache:Clear"
+			],
+			[
+				"provi",
+				"Laravel Artisan 5: Make:Provider"
+			],
+			[
+				"cong",
+				"Laravel Artisan 5: Config:Clear"
+			],
+			[
+				"see",
+				"Laravel Artisan: DB:Seed"
+			],
+			[
+				"html",
+				"HTMLPrettify"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"Snipetma",
+				"SnippetMaker: Edit Snippet"
+			],
+			[
+				"compa",
+				"PHPCompanion:Insert Constructor Property"
+			],
+			[
+				"pro",
+				"Project Manager: Open Project"
+			],
+			[
+				"php cs",
+				"PHP CS Fixer: format this file"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings"
+			],
+			[
+				"Php",
+				"PHPCompanion:Implement Interface"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 178.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/var/www/html/MyApp",
+		"/var/www/html/MyApp/app",
+		"/var/www/html/MyApp/app/Helpers",
+		"/var/www/html/MyApp/app/Http",
+		"/var/www/html/MyApp/app/Http/Controllers",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin",
+		"/var/www/html/MyApp/app/Models",
+		"/var/www/html/MyApp/app/View",
+		"/var/www/html/MyApp/app/View/Components",
+		"/var/www/html/MyApp/app/View/Components/News",
+		"/var/www/html/MyApp/app/View/Components/News/CMS",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget",
+		"/var/www/html/MyApp/config",
+		"/var/www/html/MyApp/database",
+		"/var/www/html/MyApp/resources",
+		"/var/www/html/MyApp/resources/views",
+		"/var/www/html/MyApp/resources/views/template",
+		"/var/www/html/MyApp/resources/views/template/admin",
+		"/var/www/html/MyApp/resources/views/template/admin/cms",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/block",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/page",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/widget",
+		"/var/www/html/MyApp/resources/views/template/admin/menu",
+		"/var/www/html/MyApp/resources/views/template/admin/news",
+		"/var/www/html/MyApp/resources/views/template/admin/roles_permissions",
+		"/var/www/html/MyApp/routes"
+	],
+	"file_history":
+	[
+		"/var/www/html/MyApp/public/css/custom.css",
+		"/var/www/html/MyApp/app/Models/NewsPost.php",
+		"/var/www/html/MyApp/app/Models/RolePermission.php",
+		"/var/www/html/MyApp/app/Models/User.php",
+		"/var/www/html/MyApp/database/seeders/RolePermissionsSeeder.php",
+		"/var/www/html/MyApp/app/Helpers/Helper.php",
+		"/var/www/html/MyApp/app/Models/NewsCategory.php",
+		"/home/sanoop/.config/sublime-text-3/Packages/User/Snippets/CPALL.sublime-snippet",
+		"/var/www/html/MyApp/resources/views/template/admin/roles_permissions/edit_roles_permissions.blade.php",
+		"/var/www/html/MyApp/app/Models/Menu.php",
+		"/var/www/html/MyApp/resources/views/template/admin/roles_permissions/create_roles_permissions.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/menu/create_menu.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/menu/edit_menu.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/news/edit_news_post.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/block/create_block.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/block/edit_block.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/page/create_page.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/page/edit_page.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/widget/create_widget.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/widget/edit_widget.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/news/create_news_post.blade.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/NewsPostController.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/TrendingArea.php",
+		"/var/www/html/MyApp/resources/views/template/admin/news/index_news_post.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/menu/index_menu.blade.php",
+		"/var/www/html/MyApp/.env",
+		"/var/www/html/MyApp/resources/views/components/news/video_js.blade.php",
+		"/var/www/html/MyApp/public/newsTemplate/assets/js/vendor/videojs/video-js.css",
+		"/var/www/html/MyApp/public/newsTemplate/assets/js/vendor/videojs/video.min.js",
+		"/var/www/html/MyApp/public/newsTemplate/assets/js/vendor/videojs/index.css",
+		"/var/www/html/MyApp/config/app.php",
+		"/home/sanoop/Downloads/skydash/pages/forms/basic_elements.html",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/trending-area.blade.php",
+		"/var/www/html/MyApp/public/adminTemplate/assets/js/editorDemo.js",
+		"/var/www/html/MyApp/app/Http/Middleware/GoToBackPrevent.php",
+		"/var/www/html/MyApp/resources/views/components/admin/nav-bar.blade.php",
+		"/var/www/html/MyApp/resources/views/components/admin/foot.blade.php",
+		"/var/www/html/MyApp/resources/views/template/news/details.blade.php",
+		"/var/www/html/MyApp/resources/views/components/news/tinymce.blade.php",
+		"/var/www/html/MyApp/resources/views/components/news/foot.blade.php",
+		"/var/www/html/MyApp/resources/views/components/news/head.blade.php",
+		"/var/www/html/MyApp/resources/views/layouts/news/news_layout.blade.php",
+		"/var/www/html/MyApp/config/lfm.php",
+		"/var/www/html/MyApp/resources/views/layouts/admin/admin_layout.blade.php",
+		"/var/www/html/MyApp/routes/web.php",
+		"/var/www/html/MyApp/vendor/unisharp/laravel-filemanager/src/Handlers/LfmConfigHandler.php",
+		"/var/www/html/MyApp/vendor/unisharp/laravel-filemanager/src/Lfm.php",
+		"/var/www/html/MyApp/app/Http/Kernel.php",
+		"/var/www/html/MyApp/vendor/unisharp/laravel-filemanager/src/Handlers/ConfigHandler.php",
+		"/var/www/html/MyApp/app/Http/Controllers/News/NewsController.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/UsersController.php",
+		"/var/www/html/MyApp/resources/views/vendor/translation/languages/translations/index.blade.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/AppSettingController.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/TrendingNews.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/VideoGallery.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/WhatsNew.php",
+		"/var/www/html/MyApp/app/View/Components/News/Foot.php",
+		"/var/www/html/MyApp/app/View/Components/News/Footer.php",
+		"/var/www/html/MyApp/app/View/Components/News/Head.php",
+		"/var/www/html/MyApp/app/View/Components/News/Header.php",
+		"/var/www/html/MyApp/app/View/Components/News/PreLoader.php",
+		"/var/www/html/MyApp/app/View/Components/News/SearchModel.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/NewsSlider.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/Banner.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/ContactForm.php",
+		"/var/www/html/MyApp/app/View/Components/News/CMS/Widget/MostPopular.php",
+		"/var/www/html/MyApp/resources/views/template/news/index.blade.php",
+		"/var/www/html/MyApp/.env.example",
+		"/home/sanoop/.config/sublime-text-3/Packages/PHP Completions Kit/README.md",
+		"/media/sanoop/SPS154/Practise/clock/style2.css",
+		"/var/www/html/MyApp/app/Http/Middleware/PreventBackButton.php",
+		"/var/www/html/MyApp/database/migrations/2022_03_23_155242_create_news_posts_table.php",
+		"/var/www/html/MyApp/resources/views/components/admin/image-cropper.blade.php",
+		"/var/www/html/MyApp/vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php",
+		"/var/www/html/MyApp/app/Exceptions/Handler.php",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/whats-new.blade.php",
+		"/var/www/html/MyApp/vendor/laravel/framework/src/Illuminate/View/Compilers/ComponentTagCompiler.php",
+		"/var/www/html/MyApp/app/Http/Middleware/FrontEndMenu.php",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/contact-form.blade.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/MenuController.php",
+		"/var/www/html/MyApp/routes/channels.php",
+		"/var/www/html/MyApp/database/factories/NewsPostFactory.php",
+		"/var/www/html/MyApp/database/factories/NewsCategoryFactory.php",
+		"/var/www/html/MyApp/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Factories/Factory.php",
+		"/home/sanoop/Downloads/news-master/latest_news.html",
+		"/var/www/html/MyApp/vendor/laravel/framework/src/Illuminate/Http/Exceptions/PostTooLargeException.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/page/index_page.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/users/edit_user.blade.php",
+		"/var/www/html/MyApp/app/View/Components/Admin/Select.php",
+		"/var/www/html/MyApp/resources/views/components/admin/select.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/users/index_users.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/users/create_user.blade.php",
+		"/var/www/html/MyApp/app/Http/Middleware/HaveAccess.php",
+		"/var/www/html/MyApp/database/factories/UserFactory.php",
+		"/var/www/html/MyApp/resources/views/template/admin/notifications/create_notification.blade.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/NotificationController.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/RolePermissionController.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/DashboardController.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/CMS/CMSController.php",
+		"/var/www/html/MyApp/app/Models/Block.php",
+		"/var/www/html/MyApp/app/Models/Page.php",
+		"/var/www/html/MyApp/app/Models/Widget.php",
+		"/var/www/html/MyApp/database/migrations/2022_03_20_102600_create_blocks_table.php",
+		"/var/www/html/MyApp/database/migrations/2022_03_20_185048_create_pages_table.php",
+		"/var/www/html/MyApp/database/migrations/2022_03_23_164200_create_news_categories_table.php",
+		"/var/www/html/MyApp/database/migrations/2022_03_23_164833_create_news_post_categories_table.php",
+		"/var/www/html/MyApp/app/Models/NewsPostCategory.php",
+		"/var/www/html/MyApp/database/migrations/2022_03_20_173316_create_widgets_table.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/CMS/BlockController.php",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/banner.blade.php",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/news-slider.blade.php",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/video-gallery.blade.php",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/trending-news.blade.php",
+		"/var/www/html/MyApp/resources/views/components/news/c-m-s/widget/most-popular.blade.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/block/index_block.blade.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/CMS/PageController.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/index_cms.blade.php",
+		"/var/www/html/MyApp/app/Http/Controllers/Admin/CMS/WidgetController.php",
+		"/var/www/html/MyApp/resources/views/template/admin/cms/widget/index_widget.blade.php",
+		"/media/sanoop/SPS154/Templates/Admin/concept-master/pages/tabs.html",
+		"/var/www/html/composer.json",
+		"/home/sanoop/.config/sublime-text-3/Packages/User/Snippets/CDoc.sublime-snippet",
+		"/var/www/html/MyApp/app/View/Components/Admin/Search.php",
+		"/var/www/html/MyApp/resources/views/components/admin/search.blade.php",
+		"/home/sanoop/Downloads/CodePen Home.html",
+		"/home/sanoop/Downloads/client_secret_466753667922-vb45rkg7sdf7fbh4rn058t62qto6gu9l.apps.googleusercontent.com.json",
+		"/var/www/html/MyApp/app/Events/NewUserCreatedEvent.php",
+		"/var/www/html/MyApp/resources/views/template/admin/roles_permissions/index_roles_permissions.blade.php"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 208.0,
+		"where_history":
+		[
+			"/var/www/html/MyApp/public/newsTemplate",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"key",
+			"$search",
+			"']);",
+			"TIMEZONE",
+			"TIME",
+			".datetimepicker",
+			"datetimepicker",
+			"datepicker",
+			"check",
+			"checkbox",
+			"auth()->id",
+			"$user",
+			"user",
+			"DEFAULT_POST_POST",
+			"site.webmanifest",
+			"css')}}\">",
+			"\">",
+			"></script>",
+			"sidebar",
+			"collapseExample",
+			"flex-wrap",
+			"state",
+			"sate",
+			"ValidatePostSize",
+			"create_notification",
+			"store_news",
+			"File",
+			"File\n",
+			"store_page",
+			"template.cms.",
+			"widgett",
+			"block",
+			"Block",
+			"block",
+			"blocks",
+			"create_block",
+			"block",
+			"blocks",
+			"Block",
+			"block",
+			"blocks",
+			"Block",
+			"block",
+			"blocks",
+			"create_block",
+			"widget_index",
+			"Widget",
+			"widget",
+			"Widget",
+			"widget",
+			"widgets",
+			"widget",
+			"widgets",
+			"Widget",
+			"Block",
+			"Widget",
+			"')}}",
+			"{{asset('",
+			"store_widget",
+			"user",
+			"store_notification",
+			"BlockController",
+			"block",
+			"Block",
+			"request",
+			"envUpdate",
+			"removePermission",
+			"changeStatusOfSubmenu",
+			"_changeStatusOfSubmenu",
+			"searchmenu",
+			"IS_HOMEPAGE",
+			"center",
+			"changeStatusOfSubmenu",
+			"getWeatherData",
+			"mdi-apple-mobileme",
+			"arrow-compress",
+			"rrow-compress",
+			"mdi-arrow-compress",
+			"mdi mdi-amazon-cloud",
+			"mdi mdi-amazon-clouddrive",
+			"mdi-burst-mode",
+			"F161",
+			"hangouts",
+			"termostat",
+			"mdi-n",
+			"mdi-smoke-detector",
+			"nest-protect",
+			"outbox",
+			"out-box",
+			"outbox",
+			"phone-locked",
+			"readability",
+			"ras",
+			"ras-",
+			"ras-pberrypi",
+			"raspberrypi",
+			"rdio",
+			"f527",
+			"mdi-tooltip-outline-plus",
+			"transfer",
+			"mdi-unfold-less",
+			"youtube-play",
+			"mdi-youtube-play",
+			"weather-partlycloudy",
+			"mdi-vi",
+			"mid-v",
+			"mid-vi",
+			"vi",
+			"vine",
+			"visualstudio",
+			"visual-studio",
+			"v",
+			"ve",
+			"v",
+			"verified",
+			"verif",
+			"verified",
+			"asset('assets",
+			"Bangalore",
+			" : bool;",
+			"passwordValidator",
+			"Boostrap",
+			"boostrap",
+			"Boostrap",
+			"ASSET_URL",
+			"\t\nASSET_URL",
+			"/sanoop/public",
+			"text-white"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/var/www/html/MyApp/routes/web.php",
+					"selected": true,
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 3686,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 75.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 192.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "MyApp.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"web",
+				"routes/web.php"
+			],
+			[
+				".env",
+				".env"
+			],
+			[
+				"index.blade",
+				"resources/views/template/news/index.blade.php"
+			],
+			[
+				"ValidatePostSize",
+				"vendor/laravel/framework/src/Illuminate/Foundation/Http/Middleware/ValidatePostSize.php"
+			],
+			[
+				"PageC",
+				"app/Http/Controllers/CMS/PageController.php"
+			],
+			[
+				"create_pa",
+				"resources/views/template/cms/page/create_page.blade.php"
+			],
+			[
+				"edi_pa",
+				"resources/views/template/cms/page/edit_page.blade.php"
+			],
+			[
+				"pageC",
+				"app/Http/Controllers/CMS/PageController.php"
+			],
+			[
+				"create_",
+				"resources/views/template/cms/page/create_page.blade.php"
+			],
+			[
+				"Menu",
+				"app/Models/Menu.php"
+			],
+			[
+				"dashbo",
+				"resources/views/template/admin/dashboard.blade.php"
+			],
+			[
+				"edit_app_settings.blade.php",
+				"resources/views/template/admin/app_settings/edit_app_settings.blade.php"
+			],
+			[
+				".en",
+				".env"
+			],
+			[
+				"index_users.blade.php",
+				"resources/views/template/admin/users/index_users.blade.php"
+			],
+			[
+				"alerts.js",
+				"public/adminTemplate/assets/js/alerts.js"
+			],
+			[
+				"js/app.js",
+				"public/vendor/translation/js/app.js"
+			],
+			[
+				"",
+				"app/Models/UserAddon.php"
+			],
+			[
+				"U",
+				"app/Models/User.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 335.0,
+		"last_filter": "Submit",
+		"selected_items":
+		[
+			[
+				"Submit",
+				"submit"
+			],
+			[
+				"",
+				"C"
+			]
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 296.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
